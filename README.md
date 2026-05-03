@@ -2,19 +2,19 @@
 
 ### Hola soy Eduardo Gómez 👋
 
-Estudiante de la carrera universitaria en Programación de la UTN Sede San Rafael 🎓
+Estudiante de la carrera universitaria Licenciatura en Ciberdefensa en la UNDEF 🎓
 
-- 📚 Actualmente estoy cursando el cuarto semestre.
+- 📚 Actualmente estoy cursando el segundo año.
 - 🏃‍♂️ Soy profesor de Educación Física.
-- 🧉 Mi grupo de estudio se llama "Mate Coders".
+- 💻 Soy Técnico Universitario en Programación.
 - 📖 Me gusta mucho aprender y seguir perfeccionándome.
 - 🏠 Vivo en Chapanay, San Martín, Mendoza, Argentina.
 - ⚽ Uno de mis pasatiempos favoritos es: Jugar al fútbol.
 
 ### Habilidades
-- **Lenguajes de Programación:** JavaScript (Node.js,), Java, Pyhton, HTML, CSS.
-- **Bases de Datos:** MongoDB, MySQL.
-- **Herramientas y Tecnologías:** Manejo de programas de edición de video e imágenes, Git.
+- **Lenguajes y Tecnologías:** Next.js (React), TypeScript, JavaScript (Node.js,), Java, Python, HTML, CSS.
+- **Bases de Datos:** Supabase, MongoDB y MySQL.
+- **Herramientas:** Manejo de programas de edición de video e imágenes, Git.
 - **Metodologías:** Scrum.
 
 ### 💪 Estoy emocionado por aprender y continuamente mantenerme en constante aprendizaje.
